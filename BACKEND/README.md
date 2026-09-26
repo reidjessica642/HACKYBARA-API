@@ -8,7 +8,7 @@ Current utilities used:
 - Node.js
 - Express.js
 
-Note: If you are doing this yourself, you'll want to grab the cves.json from the data folder. ``server.js`` works just fine with either or.
+Note: If you are doing this yourself, you'll want to grab the ``cves.json`` from the data folder. ``server.js`` works just fine with either or.
 
 TODO:
 - Get Vercel to properly pull data from the back-end.
