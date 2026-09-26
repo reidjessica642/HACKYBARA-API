@@ -1,4 +1,5 @@
 import express from 'express';
+import 'dotenv/config';
 import swaggerUi from 'swagger-ui-express';
 import swaggerJsdoc from 'swagger-jsdoc';
 import { cveRouter } from './routes/cves.routes.js';
@@ -42,7 +43,7 @@ app.use(errorHandlerMiddleware);
 const config = {
     appName: 'CvesAPI',
     database: 'arca',
-    url: 'mongodb://127.0.0.1:27017',
+    url: process.env.MONGODB_URI || 'mongodb://127.0.0.1:27017',
     minPoolSize: 2,
     maxPoolSize: 10
 };
