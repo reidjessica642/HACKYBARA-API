@@ -3,7 +3,7 @@ Visit the Live Demo [here](https://hackybara-api.vercel.app/)!
 ***
 # HackybaraApi
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.7.
+This project was generated using [Angular CLI](#edit#again#later) version 22.0.7.
 
 ## Development server
 
