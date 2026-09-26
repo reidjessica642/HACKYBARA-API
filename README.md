@@ -1,9 +1,9 @@
 Hackybara is currently getting set up for a Live Demo! I would like to have a live and local version, so this is currently being worked out.
-Visit the Live Demo [here](https://hackybara-api.vercel.app/)!
+Visit the Live Demo [here](#edit#again#later)!
 ***
 # HackybaraApi
 
-This project was generated using [Angular CLI](#edit#again#later) version 22.0.7.
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.7.
 
 ## Development server
 
