@@ -1,6 +1,4 @@
-Hackybara is currently getting set up for a Live Demo! I would like to have a live and local version, so this is currently being worked out.<br>
-The demo currently isn't working, but should eventually! The front-end portion works fine, just struggling with the backend.<br>
-Visit the Live Demo [here](#edit#again#later)!
+Hackybara is currently getting set up for a Live Demo! The specifics are still being worked out. I'll be letting you know when it's here!
 ***
 # HackybaraApi
 
